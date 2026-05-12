@@ -10,8 +10,8 @@ format: Individual
 
 | Truong | Dien vao day |
 |---|---|
-| Ho ten | [Dien ho ten] |
-| Ma hoc vien | [Dien ma hoc vien] |
+| Ho ten | Nguyễn Quốc Nam |
+| Ma hoc vien | 2A202600201 |
 | Track number | 2 |
 | Ten track | Tro ly dat ve va cham soc khach hang hang khong |
 | Vi sao chon track nay? | Track nay gan voi tinh huong that va co hau qua ro neu AI tra loi sai, nhat la khi user dang gap delay, huy chuyen, can doi ve hoac hoan tien gap. |
